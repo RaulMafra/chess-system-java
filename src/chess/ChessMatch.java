@@ -1,7 +1,6 @@
 package chess;
 
 import boardgame.Board;
-import boardgame.BoardException;
 import boardgame.Piece;
 import boardgame.Position;
 import chess.pieces.King;
@@ -31,7 +30,7 @@ public class ChessMatch {
 		Position target = targetPosition.toPosition();
 		validateSourcePosition(source);
 		Piece capturedPiece = makeMovie(source, target);
-		return (ChessPiece)capturedPiece;
+		return (ChessPiece) capturedPiece;
 	}
 	
 	private Piece makeMovie(Position source, Position target) {
@@ -67,6 +66,7 @@ public class ChessMatch {
 		placeNewPiece('e', 7, new Rook(board, Color.BLACK));
 		placeNewPiece('e', 8, new Rook(board, Color.BLACK));
 		placeNewPiece('d', 8, new King(board, Color.BLACK));
+		
 
 	}
 }
