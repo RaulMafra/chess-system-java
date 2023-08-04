@@ -1,5 +1,5 @@
 # Source data
-src
+*.java
 
 # Log file
 *.log
