@@ -38,8 +38,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Demo](/images/Demo.png)
-
 This project was created with the intention of applying knowledge about the Java programming language foundation. With that said, in this project, knowledge of data structures, the principles of Object-Oriented Programming (encapsulation, inheritance, polymorphism, and abstraction), defensive programming (exceptions), enumerators, and the layer pattern were applied, along with other skills such as:
 
 * Board implementation
