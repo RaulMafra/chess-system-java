@@ -2,10 +2,9 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="/images/Logo.png" alt="Logo" width="120" height="120">
   </a>
-  <h3 align="center">Chess System</h3>
+  <h1 align="center">Chess System</h1>
 </div>
 
 
@@ -37,9 +36,15 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<br>
+<div align="center">
+  <img src="/images/demo.png" alt="Demo" width="257" height="360">
+</div
+</br>
 
+<br>
 This project was created with the intention of applying knowledge about the Java programming language foundation. With that said, in this project, knowledge of data structures, the principles of Object-Oriented Programming (encapsulation, inheritance, polymorphism, and abstraction), defensive programming (exceptions), enumerators, and the layer pattern were applied, along with other skills such as:
-
+</br>
 * Board implementation
 * Piece implementation on the board
 * Practice of piece movement logic and handling of capturing the opponent's piece
