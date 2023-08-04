@@ -2,7 +2,7 @@ package boardgame;
 
 public abstract class Piece {
 
-	protected Position position; //posição da peça
+	protected Position position; 
 	private Board board;
 
 	public Piece(Board board) {
@@ -14,6 +14,7 @@ public abstract class Piece {
 		return board;
 	}
 
+	
 	public abstract boolean[][] possibleMoves();
 
 	public boolean possibleMove(Position position) {

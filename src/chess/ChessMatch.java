@@ -277,7 +277,8 @@ public class ChessMatch {
 		return color == Color.WHITE ? Color.BLACK : Color.WHITE;
 	}
 
-	private ChessPiece king(Color color) {
+	
+		private ChessPiece king(Color color) {
 		List<Piece> list = piecesOnTheBoard.stream().filter(x -> ((ChessPiece) x).getColor() == color)
 				.collect(Collectors.toList());
 		for (Piece p : list) {
