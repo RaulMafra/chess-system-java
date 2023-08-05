@@ -16,17 +16,17 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built Only With</a></li>
+        <li><a href="#built-only-with">Built Only With</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#Installation and Execution">Installation and Execution</a></li>
+        <li><a href="#installation-and-execution">Installation and Execution</a></li>
       </ul>
     </li>
-    <li><a href="#How to play">How to play</a></li>
+    <li><a href="#how-to-play">How to Play</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -105,7 +105,7 @@ To run it is very simple just follow these steps:
 
 
 <!-- USAGE EXAMPLES -->
-## How to play
+## How to Play
 
 * White pieces have white color, black pieces have yellow color.
 * The board has rows and columns, and the rows go from number **1** to number <strong>8</strong> in descending order and are located on the left side of the board, and the columns that go from letter **a** to letter **h** and are located at the bottom of the board. board.
