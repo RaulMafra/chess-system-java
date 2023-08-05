@@ -16,7 +16,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Built Only With</a></li>
       </ul>
     </li>
     <li>
@@ -27,7 +27,6 @@
       </ul>
     </li>
     <li><a href="#How to play">How to play</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
